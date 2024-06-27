@@ -1,0 +1,196 @@
+body {
+    background-image: linear-gradient(to bottom,
+            #1e2933 0%,
+            #1e2933 1.5%,
+            #255074 1.5%,
+            #255074 18%,
+            #ffffff 18%,
+            #ffffff 100%) !important;
+    height: 300vh;
+}
+
+h1 {
+    color: white;
+    font-size: x-small;
+}
+
+h2 {
+    color: white;
+    font-size: medium;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justifyContent {
+    justify-content: space-around;
+}
+
+.justifyContent1 {
+    justify-content: space-between;
+}
+
+.button {
+    background-color: #dda200;
+    border: none;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1ch;
+    font-size: 15x;
+}
+
+.button1 {
+    background-color: #2b5d87;
+    border: #051b2c;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 1ch;
+}
+
+.button2 {
+    background-color: #2b5d87;
+    border: #051b2c;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 0.5ch;
+}
+
+button:hover {
+    background-color: #255074
+}
+
+.button:active {
+    background-color: #255074;
+    transform: translateY(4px);
+  }
+
+.button1:active {
+    background-color: #255074;
+    transform: translateY(4px);
+  }
+
+  .button2:active {
+    background-color: #255074;
+    transform: translateY(4px);
+  }
+
+.Font1 {
+    color: #ffffff;
+    font-size: medium;
+}
+
+.Font2 {
+    color: #3d72a0;
+    font-size: medium;
+}
+
+.Font3 {
+    color: green;
+}
+
+.Font4 {
+    color: #ffffff;
+    font-size: large;
+}
+
+.Font5 {
+    color: #255074;
+    font-size: medium;
+}
+
+.Font6 {
+    color: #3c4044;
+    font-size: medium;
+}
+
+.Font7 {
+    color: #585050;
+}
+
+.Font8 {
+    color: #ffffff;
+    font-size: large;
+}
+
+.highlighted {
+    background-color: #3d72a0;
+}
+
+.highlighted1 {
+    background-color: #dee0e2
+}
+
+#yellow {
+    color: yellow;
+}
+
+#blue {
+    color: #255074
+}
+
+#white {
+    color: white;
+}
+
+#gray {
+    color: gray
+}
+
+.box {
+    height: auto;
+    width: 100%;
+    background-image: linear-gradient(to right,
+            #1e2933 0%,
+            #1e2933 48%,
+            #1d3b56 48%,
+            #1d3b56 100%);
+    position: absolute;
+    text-align: center;
+    align-self: center;
+    margin-left: 100px auto;
+    margin-right: 100px auto;
+}
+
+.box1 {
+    height: auto;
+    width: 100%;
+    background-image: linear-gradient(to bottom,
+            #1e2933 0%,
+            #1d3b56 100%);
+    position: absolute;
+    text-align: center;
+    align-self: center;
+    margin-left: 100px auto;
+    margin-right: 100px auto;
+}
+
+.box2 {
+    height: auto;
+    width: auto;
+    background-color:#ffe48e ;
+    position: absolute;
+    text-align: center;
+    align-self: center;
+    margin-left: 100px auto;
+    margin-right: 100px auto;
+}
+
+.Background1 {
+    background-color: #1e2933;
+    background-size: auto;
+    box-shadow: 3px 3px;
+}
+
+.pRow {
+    margin-top: 180px;
+    ;
+}
+
+.Line{
+    font-size: x-large;
+    color:#255074 ;
+}
